@@ -1,7 +1,7 @@
 from os import system
 from huffman import HuffmanCoding
 import sys
-from huffman_dec import Huffman_decompress
+//from huffman_dec import Huffman_decompress
 from qrgenerator import qrgenerate
 print("Please Select Your Choice\n1.Compression\n2.Decompression")
 opath=""
