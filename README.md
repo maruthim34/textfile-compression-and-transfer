@@ -1,4 +1,4 @@
-# textfle-compression---transfer
+# textfile-compression-and-transfer
 This application reduces the size of a large text file to smaller file using an efficient compression algorithm Huffman Coding and transfers the compressed file from one device to another using QR Code.
 
 
